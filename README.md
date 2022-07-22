@@ -6,7 +6,7 @@ step2 : npm run android
 
 or
 
-download apk on your an![image](picture or gif url)droid phone
+download apk on your android phone
 
 
 
