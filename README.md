@@ -11,12 +11,13 @@ download apk on your android phone
 
 
 #
+![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image6.png).
+![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image4.png)
 ![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image1.png)
 ![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image2.png)
 ![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image3.png)
-![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image4.png)
 ![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image5.png)
-![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image6.png)
+
 
 #
 參考資料 
