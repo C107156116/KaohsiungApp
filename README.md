@@ -17,6 +17,7 @@ download apk on your android phone
 ![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image2.png)
 ![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image3.png)
 ![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image5.png)
+![image](https://github.com/C107156116/KaohsiungApp/blob/main/image/image7.png)
 
 
 #
